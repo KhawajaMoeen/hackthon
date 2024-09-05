@@ -1,0 +1,24 @@
+.head-container{
+    height: 400px;
+}
+
+.head-container h2{
+    font-size: xx-large;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer li{
+    list-style: none;
+}
+
+.services h2{
+    height: fit-content;
+}
+
+.card-1{
+    height: fit-content;
+}
